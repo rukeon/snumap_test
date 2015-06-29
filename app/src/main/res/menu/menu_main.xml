@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/btn_search"
+        android:title="강의동(명) 검색"
+    />
+
+    <item
+        android:id="@+id/btn_road"
+        android:title="길찾기"
+        />
+    <item
+        android:id="@+id/btn_collection"
+        android:title="내목록"
+        />
+    <item
+        android:id="@+id/btn_settings"
+        android:title="설정"
+        />
+    <item
+        android:id="@+id/btn_log"
+        android:title="로그인/로그아웃"
+        />
+</menu>
